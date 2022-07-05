@@ -7,6 +7,7 @@
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
 ## ⚓ Placeholders
+* [Channel](placeholders/channel.md)
 * [Guild](placeholders/guild.md)
 * [List](placeholders/list.md)
 * [Message](placeholders/message.md)
