@@ -33,7 +33,7 @@ literally anything
 
 1. Go to your server and send `-create`
 2. You will find the bot asking you, what is the sketch name, well anything you want let's write `My first sketch`\
-   `<img src=".gitbook/assets/image.png" alt="" data-size="original">`
+   ![](<.gitbook/assets/image.png>)\`\`
 3. Afterward, it will ask you what is the starter, let's select `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
 4. then we will tell the bot, which text , in this case let's make it `?hello`\
