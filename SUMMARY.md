@@ -3,6 +3,8 @@
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
 
-## 🚀 Starters
+<details>
+<summary>## 🚀 Starters</summary>
 
 * [Page 1](starters/page-1.md)
+</details>
