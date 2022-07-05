@@ -20,7 +20,7 @@
 * [User](placeholders/user.md)
 ## Inputs
 * [ Channel](inputs/channel.md)
-    * [ Message](inputs/message.md)
-        * [ Role](inputs/role.md)
-        * [ Text](inputs/text.md)
-        * [ User](inputs/user.md)
+* [ Message](inputs/message.md)
+* [ Role](inputs/role.md)
+* [ Text](inputs/text.md)
+* [ User](inputs/user.md)
