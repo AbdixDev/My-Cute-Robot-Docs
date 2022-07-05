@@ -32,7 +32,7 @@ literally anything
 ### Now time to create the sketch
 
 1. Go to your server and send `-create`
-2. You will find the bot asking you, what is the sketch name, well anything you want let's write `My first sketch`\
+2. You will find the bot asking you. What sketch name. well, anything. let's write `My first sketch`\
    ![](<.gitbook/assets/image.png>)\`\`
 3. Afterward, it will ask you what is the starter, let's select `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
