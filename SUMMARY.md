@@ -2,9 +2,7 @@
 
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
-<details>
-## 🚀 Starters
 
-* [When User Join Server](/starters/userjoin.md)
-* [When User Send A Message](/starters/userText.md)
-</details>
+## 🚀 Starters
+* [User Join](starters/memberJoin.md)
+* [User Say Something](starters/userText.md)
