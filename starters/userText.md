@@ -11,6 +11,6 @@ This starter, needs some inputs to work properly when you attempt to create a sk
 This starter, provides 3 placeholders for your use
 | Placeholder      | Description |
 |-|-|
-|member|The member who started the sketch|
-|message|The user message which started the sketch|
-|channel|The channel where the user used the command in|
+|[member](../placeholders/user.md)|The member who started the sketch|
+|[message](../placeholders/message.md)|The user message which started the sketch|
+|[channel](../placeholders/channel.md)|The channel where the user used the command in|

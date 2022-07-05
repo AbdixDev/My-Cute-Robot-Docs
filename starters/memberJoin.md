@@ -5,4 +5,4 @@ Starts the sketch When user just joined your server
 This starter, provides 1 placeholders for your use
 | Placeholder      | Description |
 |-|-|
-|member|The member who just joined|
+|[member](../placeholders/user.md)|The member who just joined|
