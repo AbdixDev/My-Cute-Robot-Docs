@@ -9,4 +9,5 @@
 ## ⚓ Placeholders
 * [Guild](placeholders/guild.md)
 * [List](placeholders/list.md)
+* [Message](placeholders/message.md)
 * [User](placeholders/user.md)
