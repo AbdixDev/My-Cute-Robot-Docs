@@ -14,3 +14,7 @@ This starter, provides 3 placeholders for your use
 |[member](../placeholders/user.md)|The member who started the sketch|
 |[message](../placeholders/message.md)|The user message which started the sketch|
 |[channel](../placeholders/channel.md)|The channel where the user used the command in|
+
+## Example
+{% content-ref url="../examples/userText.md" %}[Click here](../examples/"userText.md")
+{% endcontent-ref %}
