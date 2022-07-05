@@ -6,3 +6,5 @@ This starter, provides 1 placeholders for your use
 | Placeholder      | Description |
 |-|-|
 |[member](../placeholders/user.md)|The member who just joined|
+## Example of using this starter
+[Click here](../examples/memberJoin.md)
