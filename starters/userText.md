@@ -1,10 +1,12 @@
 # User Say Something
 Starts the sketch When user say a text
+
 ## Inputs
 This starter, needs some inputs to work properly when you attempt to create a sketch using it
 | Input      | Description |Type|
 |-|-|-|
 |When user say what?|Like `?hello`|text|
+
 ## Placeholders
 This starter, provides 3 placeholders for your use
 | Placeholder      | Description |
