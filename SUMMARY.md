@@ -10,4 +10,6 @@
 * [Guild](placeholders/guild.md)
 * [List](placeholders/list.md)
 * [Message](placeholders/message.md)
+* [Role](placeholders/role.md)
+* [Text](placeholders/text.md)
 * [User](placeholders/user.md)
