@@ -9,7 +9,19 @@
 ## 🚀 Starters
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
-
+## 🔂 Steps
+  * 💬Message
+        * [Delete](steps/deletemessage.md)
+        * [Edit](steps/editmessage.md)
+        * [Reply](steps/replymessage.md)
+        * [Send](steps/sendmessage.md)
+  * Role
+        * [Give](steps/giverole.md)
+        * [Take](steps/takerole.md)
+  * 🔤Text
+        * [Random Text](steps/randomtext.md)
+  * Misc
+        * [Wait](steps/wait.md)
 ## ⚓ Placeholders
 * [Channel](placeholders/channel.md)
 * [Guild](placeholders/guild.md)
