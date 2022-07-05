@@ -17,3 +17,6 @@
 * [Role](placeholders/role.md)
 * [Text](placeholders/text.md)
 * [User](placeholders/user.md)
+
+## Inputs
+* [Text](inputs/text.md)
