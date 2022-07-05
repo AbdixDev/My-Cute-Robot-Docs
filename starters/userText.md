@@ -5,7 +5,7 @@ Starts the sketch When user say a text
 This starter, needs some inputs to work properly when you attempt to create a sketch using it
 | Input      | Description |Type|
 |-|-|-|
-|When user say what?|Like `?hello`|text|
+|When user say what?|Like `?hello`| [ Text](../inputs/text.md) |
 
 ## Placeholders
 This starter, provides 3 placeholders for your use
