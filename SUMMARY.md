@@ -8,4 +8,5 @@
 * [User Say Something](starters/userText.md)
 ## ⚓ Placeholders
 * [Guild](placeholders/guild.md)
+* [List](placeholders/list.md)
 * [User](placeholders/user.md)
