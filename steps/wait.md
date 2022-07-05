@@ -1,5 +1,7 @@
-# Wait (from Misc Step Category)
-This step does: It will literally make me wait for a time
+---
+description: (from Misc Step Category)
+---
+It will literally make me wait for a time
 
 ## Inputs
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch

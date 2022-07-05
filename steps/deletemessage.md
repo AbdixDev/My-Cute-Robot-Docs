@@ -1,5 +1,7 @@
-# Delete (from Message Step Category)
-This step does: Delete a message
+---
+description: (from Message Step Category)
+---
+Delete a message
 
 ## Inputs
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch

@@ -1,5 +1,7 @@
-# Reply (from Message Step Category)
-This step does: Reply to the user message
+---
+description: (from Message Step Category)
+---
+Reply to the user message
 
 ## Inputs
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch

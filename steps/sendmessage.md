@@ -1,5 +1,7 @@
-# Send (from Message Step Category)
-This step does: Send a message
+---
+description: (from Message Step Category)
+---
+Send a message
 
 ## Inputs
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch
