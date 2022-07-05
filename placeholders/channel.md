@@ -1,4 +1,4 @@
-# Channel
+# Channel Placeholder
 This placeholder contains some information about a channel
 
 ## Properties

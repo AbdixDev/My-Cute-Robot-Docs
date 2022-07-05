@@ -1,4 +1,4 @@
-# Guild
+# Guild Placeholder
 This placeholder contains some information about the guild
 
 ## Properties

@@ -1,4 +1,4 @@
-# User
+# User Placeholder
 This placeholder contains some information about a user in your guild
 
 ## Properties

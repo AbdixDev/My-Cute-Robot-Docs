@@ -1,4 +1,4 @@
-# Message
+# Message Placeholder
 This placeholder contains some information about a message
 
 ## Properties

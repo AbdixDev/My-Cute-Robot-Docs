@@ -1,4 +1,4 @@
-# List
+# List Placeholder
 This placeholder contains list of items, like members, roles..
 
 ## Properties

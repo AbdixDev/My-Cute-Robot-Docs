@@ -1,4 +1,4 @@
-# Text
+# Text Placeholder
 This placeholder contains content of a text
 
 ## Properties
