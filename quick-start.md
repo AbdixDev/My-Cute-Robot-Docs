@@ -10,8 +10,7 @@ Now it's time to create your first sketch\
 But what is sketch?\
 \
 A sketch consist of:\
-1- Starter
-
+1- Starter\
 2- Steps
 
 #### Starter
