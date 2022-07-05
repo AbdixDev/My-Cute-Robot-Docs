@@ -8,4 +8,4 @@ This starter, provides 1 placeholders for your use
 |[member](../placeholders/user.md)|The member who just joined|
 
 ## Example
-[Click here](../examples/memberJoin.md)
+[Click here](../examples/memberJoin)
