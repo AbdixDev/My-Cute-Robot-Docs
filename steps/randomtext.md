@@ -7,6 +7,4 @@ To get a random text out of pool of your choice
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch
 | Input      | Description |Type|
 |-|-|-|
-|Text Pool|Please send the pool of texts that i will select one randomly from
-In format of:
-Text 1 / Text 2 / Text 3...| [ Text](../inputs/text.md) |
+|Text Pool|This will be the pool I select one from  (In format of: Text 1 / Text 2 / Text 3...)| [ Text](../inputs/text.md) |
