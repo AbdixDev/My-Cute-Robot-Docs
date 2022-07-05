@@ -45,10 +45,10 @@ literally anything
 7. but wait, reply to which message?, so we will need to tell the bot, to reply to the user message that started this sketch\
    ![](<.gitbook/assets/image (1).png>)
 8. Now send `Heyo <3`\
-   `![](<.gitbook/assets/image (7).png>)`
+   ![](<.gitbook/assets/image (7).png>)
 9. We are done with the first step, now time for 2nd step, nah i'm joking let's save the sketch at that\
    ![](<.gitbook/assets/image (10).png>)
 10. Now time to test the sketch, by sending `?hello`\
-    ![](<.gitbook/assets/image (9).png>)
+   ![](<.gitbook/assets/image (9).png>)
 
 Congratulations :tada:! you made your first sketch and also your first so-called Auto-Responder
