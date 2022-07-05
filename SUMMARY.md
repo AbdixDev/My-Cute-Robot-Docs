@@ -9,7 +9,7 @@
 ## 🚀 Starters
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
-## 🔂 Steps
+## Steps
 * 💬Message
     * [Delete](steps/deletemessage.md)
     * [Edit](steps/editmessage.md)
