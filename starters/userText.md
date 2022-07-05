@@ -32,9 +32,9 @@ To get the message content
 4- Select the channel where the sketch starter
 5- As message you can use the placeholder to get the user name like:
 ```
-Hello :member: :heart:
+Hello :member: ❤️
 ``` 
 5- Save, and when user send a text starts with `?hello`, the bot will send:
 ```
-Hello @user :heart:
+Hello @user ❤️
 ```
