@@ -5,4 +5,5 @@
 
 ## 🚀 Starters
 
-* [Page 1](starters/userjoin.md)
+* [When User Join Server](/starters/userjoin.md)
+* [When User Send A Message](/starters/userText.md)
