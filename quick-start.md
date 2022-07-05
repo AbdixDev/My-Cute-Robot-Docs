@@ -30,26 +30,24 @@ and the step can be anything, like:
 
 literally anything
 
-
-
 ### Now time to create the sketch
 
 1. Go to your server and send `-create`
 2. You will find the bot asking you, what is the sketch name, well anything you want let's write `My first sketch`\
-   ``<img src=".gitbook/assets/image.png" alt="" data-size="original">``
+   `<img src=".gitbook/assets/image.png" alt="" data-size="original">`
 3. Afterward, it will ask you what is the starter, let's select `User Say Something`\
-   ![](<.gitbook/assets/image (6).png>)``
-4. &#x20;then we will tell the bot, which text , in this case let's make it `?hello`\
-   ![](<.gitbook/assets/image (3).png>)
+   ![](<.gitbook/assets/image (6).png>)\`\`
+4. then we will tell the bot, which text , in this case let's make it `?hello`\
+   ![](<.gitbook/assets/image (4).png>)
 5. now, the bot will start this sketch when any user send `?hello` , now time to make our first step\
-   ![](<.gitbook/assets/image (11).png>)&#x20;
+   ![](<.gitbook/assets/image (11).png>)
 6. let's reply to the user with `Heyo <3` so we will select `Message` then inside it we will select `Reply`\
    ![](<.gitbook/assets/image (8).png>)
 7. but wait, reply to which message?, so we will need to tell the bot, to reply to the user message that started this sketch\
    ![](<.gitbook/assets/image (1).png>)
 8. Now send `Heyo <3`\
-   ``![](<.gitbook/assets/image (7).png>)``
-9. &#x20;We are done with the first step, now time for 2nd step, nah i'm joking let's save the sketch at that\
+   `![](<.gitbook/assets/image (7).png>)`
+9. We are done with the first step, now time for 2nd step, nah i'm joking let's save the sketch at that\
    ![](<.gitbook/assets/image (10).png>)
 10. Now time to test the sketch, by sending `?hello`\
     ![](<.gitbook/assets/image (9).png>)
