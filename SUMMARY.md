@@ -3,6 +3,8 @@
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
 
+## Examples
+* [ Welcomer](examples/memberJoin.md)
 ## 🚀 Starters
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)

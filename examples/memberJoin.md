@@ -1,4 +1,4 @@
-# Welcomer (Example)
+# Welcomer
 Let's see how our cute robot can welcome the newcomers in the server
 
 ## Goal
