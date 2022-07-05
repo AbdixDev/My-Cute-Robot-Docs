@@ -7,15 +7,15 @@ First, [Invite me to your server](https://discord.com/api/oauth2/authorize?clien
 ## Your First Sketch
 
 Now it's time to create your first sketch\
-But what is sketch?\
+But what is a sketch?\
 \
-A sketch consist of:\
+A sketch consists of:\
 1- Starter\
 2- Steps
 
 #### Starter
 
-Sketch's starter, is very important because it will decide when this sketch will start? like when user join the server? or when a user send a message for example
+Sketch's starter is very important because it will decide when this sketch will start. Like when a User joins the server. Or when a user sends a message, for example
 
 #### Steps
 
@@ -32,23 +32,23 @@ literally anything
 ### Now time to create the sketch
 
 1. Go to your server and send `-create`
-2. You will find the bot asking you. What sketch name. well, anything. let's write `My first sketch`\
+2. You will find the bot asking you, what sketch name? Well, anything. Let's write `My first sketch`\
    ![](<.gitbook/assets/image.png>)\`\`
-3. Afterward, it will ask you what is the starter, let's select `User Say Something`\
+3. Afterward, it will ask you what is the starter. Let's select `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
-4. then we will tell the bot, which text , in this case let's make it `?hello`\
+4. Then we will tell the bot which text. In this case, let's make it `?hello`\
    ![](<.gitbook/assets/image (4).png>)
-5. now, the bot will start this sketch when any user send `?hello` , now time to make our first step\
+5. Now the bot will start this sketch when any user send `?hello` . Now time to make our first step\
    ![](<.gitbook/assets/image (11).png>)
-6. let's reply to the user with `Heyo <3` so we will select `Message` then inside it we will select `Reply`\
+6. Let's reply to the user with `Heyo <3` . So we will select `Message` . Then inside it we will select `Reply`\
    ![](<.gitbook/assets/image (8).png>)
-7. but wait, reply to which message?, so we will need to tell the bot, to reply to the user message that started this sketch\
+7. But wait, reply to which message? So we will need to tell the bot to reply to the user message that started this sketch\
    ![](<.gitbook/assets/image (1).png>)
 8. Now send `Heyo <3`\
    ![](<.gitbook/assets/image (7).png>)
-9. We are done with the first step, now time for 2nd step, nah i'm joking let's save the sketch at that\
+9. We are done with the first step. Now time for the 2nd step. Nah I'm joking. Let's save the sketch at that\
    ![](<.gitbook/assets/image (10).png>)
-10. Now time to test the sketch, by sending `?hello`\
+10. Now time to test the sketch by sending `?hello`\
    ![](<.gitbook/assets/image (9).png>)
 
 Congratulations :tada:! you made your first sketch and also your first so-called Auto-Responder
