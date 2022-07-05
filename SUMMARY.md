@@ -5,4 +5,4 @@
 
 ## 🚀 Starters
 
-* [Page 1](starters/page-1.md)
+* [Page 1](starters/userjoin.md)
