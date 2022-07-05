@@ -9,6 +9,19 @@
 ## 🚀 Starters
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
+
+## Steps
+### Category
+* [Test](README.md)
+### Category
+* [Test](README.md)
+### Category
+* [Test](README.md)
+### Category
+* [Test](README.md)
+### Category
+* [Test](README.md)
+
 ## ⚓ Placeholders
 * [Channel](placeholders/channel.md)
 * [Guild](placeholders/guild.md)
