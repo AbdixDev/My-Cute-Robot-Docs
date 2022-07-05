@@ -4,7 +4,7 @@ description: I'm a cute robot, that will aid you to do amazing things in your se
 
 # 👋 Welcome!
 
-Here you'll find all the documentation you need to start use me and create cool stuffs.
+Here you'll find all the documentation you need to start using me and create cool stuffs.
 
 ## Want to jump right in?
 
