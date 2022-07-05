@@ -6,3 +6,5 @@
 ## 🚀 Starters
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
+## ⚓ Placeholders
+* [Guild](placeholders/guild.md)
