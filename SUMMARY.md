@@ -9,6 +9,7 @@
 * Tutorials
   * [ How to create a sketch](tutorials/create.md)
   * [ How to delete a sketch](tutorials/delete.md)
+  * [ What is Placeholder?](tutorials/placeholder.md)
   * [ How to view a previously created sketch](tutorials/view.md)
 * 🚀 Starters
   * [User Join](starters/memberJoin.md)
