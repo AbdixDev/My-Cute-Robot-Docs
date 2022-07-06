@@ -1,7 +1,7 @@
 # How to view a previously created sketch
 Sometimes we forget what the [sketch](create.md) does, and want to view the content of a [sketch](create.md) we created long ago
 
-To view a [sketch](create.md), assuming that the bot prefix is `-`
+To view a [sketch](create.md), assuming that the bot [prefix](prefix.md) is `-`
 
 1. Go to your server, and send `-view`\
 ![](https://i.imgur.com/qz3X9TF.jpg)

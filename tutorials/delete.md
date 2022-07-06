@@ -1,5 +1,5 @@
 # How to delete a sketch
-To delete a [sketch](create.md), assuming that the bot prefix is `-`
+To delete a [sketch](create.md), assuming that the bot [prefix](prefix.md) is `-`
 
 1. Go to your server, and send `-delete`\
 ![](https://i.imgur.com/6suGVjT.jpg)

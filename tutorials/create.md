@@ -1,5 +1,5 @@
 # How to create a sketch
-To create a sketch, assuming that the bot prefix is `-`
+To create a sketch, assuming that the bot [prefix](prefix.md) is `-`
 
 1. Go to your server, and send `-create`\
 ![](https://i.imgur.com/wHmMZvW.jpg)
