@@ -9,6 +9,7 @@
 * Tutorials
   * [ How to create a sketch](tutorials/create.md)
   * [ How to delete a sketch](tutorials/delete.md)
+  * [ How to View Your Sketch](tutorials/view.md)
 * 🚀 Starters
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
