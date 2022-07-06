@@ -1,11 +1,11 @@
 ---
-Description: I'm a cute robot, that will aid you to do amazing things in your server!!
+Description: I'm a cute robot that will aid you to do amazing things in your server!!
 ---
 
 # 👋 Welcome!
 
 Hey, I'm the cute robot. What can I do?\
-well... anything, I can help you to build your own commands and behaviors \
+Well... anything, I can help you to build your own commands and behaviors \
 For example, you can make a [sketch](tutorials/create.md) to automatically [greet people](examples/userText.md)\
 ![](https://i.imgur.com/bPGLkIS.jpg)
 
