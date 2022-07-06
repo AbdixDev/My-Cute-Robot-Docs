@@ -4,11 +4,9 @@
 * [Quick Start](quick-start.md)
 
 * Examples
-  * [ Examples](examples/README.md)
   * [ Welcomer](examples/memberJoin.md)
   * [ Greeting People](examples/userText.md)
 * Tutorials
-  * [ Tutorials](tutorials/README.md)
   * [ How to create a sketch](tutorials/create.md)
 * 🚀 Starters
   * [User Join](starters/memberJoin.md)
@@ -35,7 +33,6 @@
   * [Text](placeholders/text.md)
   * [User](placeholders/user.md)
 * Inputs
-  * [ Inputs](inputs/README.md)
   * [ Channel](inputs/channel.md)
   * [ Message](inputs/message.md)
   * [ Role](inputs/role.md)
