@@ -18,8 +18,8 @@ This step, provides 1 placeholders for your use
 
 ### Using Placeholders
 placeholder of a step, can be used only if you provided the step number after the placeholder name\
-For example, using placeholder `message` that provided from the step number 6
+For example, using placeholder `message` that provided from the step number 8
  
 ```
-<message6>
+<message8>
 ```
