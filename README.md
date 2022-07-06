@@ -4,11 +4,28 @@ description: I'm a cute robot, that will aid you to do amazing things in your se
 
 # 👋 Welcome!
 
-Here you'll find all the documentation you need to start using me and create cool stuffs.
+Here, I'm the cute robot, what i can do?\
+well... anything, i can help you to build your own commands and behaviors \
+For example you can make a [sketch](tutorials/create.md) to automatically [greet people](examples/userText.md)\
+![](https://i.imgur.com/bPGLkIS.jpg)
+
+Or make a [sketch](tutorials/create.md) to [Welcome people](examples/memberJoin.md) when they join your server
+![](https://i.imgur.com/VbIS3q0.jpg)
+
+With almost no efforts
+
+## But How to build a [sketch](tutorials/create.md) with custom behavior?
+Well, you need to first make your first [sketch](tutorials/create.md), check this [quick start](quick-start.md)
+
+## More Examples?
+We have some useful examples of how you can build a sketch [Click here](examples/)
+
+## Feeling Confused?
+No worries, We got your back, Join [our Support Server](https://discord.com/invite/bKQPWb99b7) to answer your questions
 
 ## Want to jump right in?
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first [sketch](tutorials/create.md):
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
