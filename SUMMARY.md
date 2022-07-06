@@ -2,6 +2,7 @@
 
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
+
 ## Examples
 * [ Welcomer](examples/memberJoin.md)
 * [ Greeting People](examples/userText.md)
@@ -9,7 +10,7 @@
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
 ## Steps
-* 💬Message
+* Message
     * [Delete](steps/deletemessage.md)
     * [Edit](steps/editmessage.md)
     * [Reply](steps/replymessage.md)
@@ -17,7 +18,7 @@
 * Role
     * [Give](steps/giverole.md)
     * [Take](steps/takerole.md)
-* 🔤Text
+* Text
     * [Random Text](steps/randomtext.md)
 * Misc
     * [Wait](steps/wait.md)
