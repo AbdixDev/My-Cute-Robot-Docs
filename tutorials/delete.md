@@ -7,5 +7,6 @@ To delete a sketch, assuming that the bot prefix is `-`
 ![](https://i.imgur.com/eR1TGvD.jpg)
 3. it should give you a successful deletion\
 ![](https://i.imgur.com/WoUDnJa.jpg)
+
 And that's how you delete a sketch from the bot\
 read the [examples](../examples/) to know more about the using of sketches
