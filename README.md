@@ -9,7 +9,7 @@ well... anything, i can help you to build your own commands and behaviors \
 For example you can make a [sketch](tutorials/create.md) to automatically [greet people](examples/userText.md)\
 ![](https://i.imgur.com/bPGLkIS.jpg)
 
-Or make a [sketch](tutorials/create.md) to [Welcome people](examples/memberJoin.md) when they join your server
+Or make a [sketch](tutorials/create.md) to [Welcome people](examples/memberJoin.md) when they join your server\
 ![](https://i.imgur.com/VbIS3q0.jpg)
 
 With almost no efforts
