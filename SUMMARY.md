@@ -8,6 +8,7 @@
   * [ Greeting People](examples/userText.md)
 * Tutorials
   * [ How to create a sketch](tutorials/create.md)
+  * [ How to delete a sketch](tutorials/delete.md)
 * 🚀 Starters
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
