@@ -8,7 +8,7 @@
 * [Welcomer](examples/memberJoin.md)
 * [Greeting People](examples/userText.md)
 
-## 🚀 Starters
+* 🚀 Starters
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
 ## Steps
