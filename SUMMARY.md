@@ -2,7 +2,6 @@
 
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
-
 ## Examples
 * [ Welcomer](examples/memberJoin.md)
 * [ Greeting People](examples/userText.md)
