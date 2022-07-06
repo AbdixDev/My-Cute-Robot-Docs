@@ -7,8 +7,8 @@
 * [ Welcomer](examples/memberJoin.md)
 * [ Greeting People](examples/userText.md)
 ## 🚀 Starters
-* [User Join](starters/memberJoin.md)
-* [User Say Something](starters/userText.md)
+  * [User Join](starters/memberJoin.md)
+  * [User Say Something](starters/userText.md)
 ## Steps
 * Message
     * [Delete](steps/deletemessage.md)

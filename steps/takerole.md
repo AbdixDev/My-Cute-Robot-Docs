@@ -1,7 +1,7 @@
 ---
 description: (from Role Step Category)
 ---
-This will take a role to user
+This will take a role from user
 
 ## Inputs
 This steps, needs some inputs to work properly when you attempt to add this step in the sketch
