@@ -23,7 +23,7 @@ Sketch's steps are what describe the sketch behavior, and your cute robot will r
 
 and the step can be anything, like:
 
-* send a message
+* Send a Message
 * react to a message
 * give a role to user
 
@@ -33,7 +33,7 @@ literally anything
 
 1. Go to your server and send `-create`
 2. You will find the bot asking you, what sketch name? Well, anything. Let's write `My first sketch`\
-   ![](<.gitbook/assets/image.png>)\`\`
+   ![](.gitbook/assets/image.png)\`\`
 3. Afterward, it will ask you what is the starter. Let's select `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
 4. Then we will tell the bot which text. In this case, let's make it `?hello`\
@@ -49,6 +49,6 @@ literally anything
 9. We are done with the first step. Now time for the 2nd step. Nah I'm joking. Let's save the sketch at that\
    ![](<.gitbook/assets/image (10).png>)
 10. Now time to test the sketch by sending `?hello`\
-   ![](<.gitbook/assets/image (9).png>)
+    ![](<.gitbook/assets/image (9).png>)
 
 Congratulations :tada:! you made your first sketch and also your first so-called Auto-Responder
