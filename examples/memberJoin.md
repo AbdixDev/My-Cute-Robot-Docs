@@ -22,7 +22,7 @@ Obviously [`User Join`](../starters/memberJoin.md) starter\
 
 4- Select the channel where to send (#welcome), then let's tell the bot what is the message\
 ![](https://i.imgur.com/1G7MvAj.jpg)\
-**Note**: we used a placeholder of `member` provided by the starter
+**Note**: we used a [placeholder](../tutorials/placeholder.md) of `member` provided by the starter
 
 5- then let's add our 2nd step, which for adding the role, select `Role` then `Give`\
 ![](https://i.imgur.com/ljKooh1.jpg)\

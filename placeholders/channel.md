@@ -1,5 +1,5 @@
 # Channel Placeholder
-This placeholder contains some information about a channel
+This [placeholder](../tutorials/placeholder.md) contains some information about a channel
 
 ## Properties
 This placeholder have some properties that might be useful for you
@@ -14,3 +14,5 @@ This placeholder have some properties that might be useful for you
 | \<channel topic\> |get the channel topic|[Text](./text.md)|
 | \<channel type\> |get the channel type|[Text](./text.md)|
 | \<channel childs\> |if the channel is category, it gets the channels inside it|[List](./list.md) Of [Channel](./channel.md)|
+
+[Click here](../tutorials/placeholder.md) to know more about using placeholders

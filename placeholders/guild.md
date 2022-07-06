@@ -1,5 +1,5 @@
 # Guild Placeholder
-This placeholder contains some information about the guild
+This [placeholder](../tutorials/placeholder.md) contains some information about the guild
 
 ## Properties
 This placeholder have some properties that might be useful for you
@@ -14,3 +14,5 @@ This placeholder have some properties that might be useful for you
 | \<guild members\> |get all members in the guild|[List](./list.md) Of [User](./user.md)|
 | \<guild roles\> |get all roles in the guild|[List](./list.md) Of [Role](./role.md)|
 | \<guild owner\> |get the owner of the guild|[User](./user.md)|
+
+[Click here](../tutorials/placeholder.md) to know more about using placeholders

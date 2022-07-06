@@ -2,7 +2,7 @@
 Starts the sketch When user just joined your server
 
 ## Placeholders
-This starter, provides 1 placeholders for your use
+This starter, provides 1 [placeholders](../tutorials/placeholder.md) for your use
 | Placeholder      | Description |
 |-|-|
 |[member](../placeholders/user.md)|The member who just joined|

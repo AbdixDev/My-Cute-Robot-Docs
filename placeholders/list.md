@@ -1,5 +1,5 @@
 # List Placeholder
-This placeholder contains list of items, like members, roles..
+This [placeholder](../tutorials/placeholder.md) contains list of items, like members, roles..
 
 ## Properties
 This placeholder have some properties that might be useful for you
@@ -9,3 +9,5 @@ This placeholder have some properties that might be useful for you
 | \<list length\> |same as `count`|[Text](./text.md)|
 | \<list get n\> |to get item at `n`th position in the list|Any type|
 | \<list map x\> |replaces the items in the list with the item's `x` property|[List](./list.md) Of Any type|
+
+[Click here](../tutorials/placeholder.md) to know more about using placeholders

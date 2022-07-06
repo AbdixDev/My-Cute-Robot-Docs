@@ -24,7 +24,7 @@ it will be [`User Say Something`](../starters/userText.md) starter \
 
 5- it will ask, which message to reply to, Select `User Message`, then let's tell the bot what is the message\
 ![](https://i.imgur.com/Rcxg5aA.jpg)\
-**Note**: we used a placeholder of `member` provided by the starter
+**Note**: we used a [placeholder](../tutorials/placeholder.md) of `member` provided by the starter
 
 6- Save, and that looks neat\
 ![](https://i.imgur.com/nHZ2imW.jpg)\

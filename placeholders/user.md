@@ -1,5 +1,5 @@
 # User Placeholder
-This placeholder contains some information about a user in your guild
+This [placeholder](../tutorials/placeholder.md) contains some information about a user in your guild
 
 ## Properties
 This placeholder have some properties that might be useful for you
@@ -14,3 +14,5 @@ This placeholder have some properties that might be useful for you
 | \<user nickname\> |get the user nickname|[Text](./text.md)|
 | \<user color\> |get the user name color in the guild|[Text](./text.md)|
 | \<user roles\> |get the user roles in the guild|[List](./list.md) Of [Role](./role.md)|
+
+[Click here](../tutorials/placeholder.md) to know more about using placeholders
