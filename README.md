@@ -18,7 +18,7 @@ With almost no effort!
 Well, you need to first make your first [sketch](tutorials/create.md). Check this [quick start](quick-start.md) out
 
 ## More Examples?
-We have some useful examples of how you can build a sketch [Click here](./examples/)
+We have some useful examples of how you can build a sketch [Click here](examples/)
 
 ## Feeling Confused?
 No worries. We got your back. Join [our Support Server](https://discord.com/invite/bKQPWb99b7) to answer your questions

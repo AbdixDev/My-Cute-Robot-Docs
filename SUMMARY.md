@@ -4,8 +4,8 @@
 * [Quick Start](quick-start.md)
 
 * Examples
-  * [ Welcomer](examples/memberJoin.md)
-  * [ Greeting People](examples/userText.md)
+  * [Welcomer](examples/memberJoin.md)
+  * [Greeting People](examples/userText.md)
 * Tutorials
   * [ How to create a sketch](tutorials/create.md)
   * [ How to delete a sketch](tutorials/delete.md)
