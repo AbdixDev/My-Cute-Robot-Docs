@@ -12,7 +12,7 @@ To create a sketch, assuming that the bot prefix is `-`
 5. after done, you can save the sketch\
 ![](https://i.imgur.com/F2CjZfW.jpg)
 
-Or Cancel the sketch
+Or Cancel the sketch\
 ![](https://i.imgur.com/PmCRpL1.jpg)
 
 And that's how you create a sketch in the bot\
