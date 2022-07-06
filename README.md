@@ -8,7 +8,7 @@ Here you'll find all the documentation you need to start using me and create coo
 
 ## Want to jump right in?
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first sketch:
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)

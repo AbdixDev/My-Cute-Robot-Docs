@@ -13,7 +13,7 @@
 * [User Join](starters/memberJoin.md)
 * [User Say Something](starters/userText.md)
 
-## 🔂 Steps
+## Steps
 
 * [Message](steps/message/README.md)
   * [Delete](steps/deletemessage.md)
