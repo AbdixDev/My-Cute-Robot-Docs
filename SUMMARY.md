@@ -4,14 +4,14 @@
 * [Quick Start](quick-start.md)
 
 * Examples
-  * [Welcomer](examples/memberJoin.md)
-  * [Greeting People](examples/userText.md)
+  * [ Welcomer](examples/memberJoin.md)
+  * [ Greeting People](examples/userText.md)
 * Tutorials
-  * [ How to create a sketch](tutorials/create.md)
-  * [ How to delete a sketch](tutorials/delete.md)
-  * [ What is Placeholder?](tutorials/placeholder.md)
-  * [ Changing the bot prefix?](tutorials/prefix.md)
-  * [ How to view a previously created sketch](tutorials/view.md)
+  * [How to create a sketch](tutorials/create.md)
+  * [How to delete a sketch](tutorials/delete.md)
+  * [What is Placeholder?](tutorials/placeholder.md)
+  * [Changing the bot prefix?](tutorials/prefix.md)
+  * [How to view a previously created sketch](tutorials/view.md)
 * 🚀 Starters
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
@@ -37,8 +37,8 @@
   * [Text](placeholders/text.md)
   * [User](placeholders/user.md)
 * Inputs
-  * [ Channel](inputs/channel.md)
-  * [ Message](inputs/message.md)
-  * [ Role](inputs/role.md)
-  * [ Text](inputs/text.md)
-  * [ User](inputs/user.md)
+  * [Channel](inputs/channel.md)
+  * [Message](inputs/message.md)
+  * [Role](inputs/role.md)
+  * [Text](inputs/text.md)
+  * [User](inputs/user.md)
