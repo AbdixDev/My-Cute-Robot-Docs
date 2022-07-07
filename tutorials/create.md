@@ -16,4 +16,6 @@ Or Cancel the sketch\
 ![](https://i.imgur.com/PmCRpL1.jpg)
 
 And that's how you create a sketch in the bot\
-read the [examples](../examples/) to know more about the using of sketches
+
+## More Examples
+Click [Here](../examples/) To see examples

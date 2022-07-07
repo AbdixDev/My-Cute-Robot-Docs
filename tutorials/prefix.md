@@ -11,3 +11,6 @@ you can easily know that by mentioning the bot in the server like this:\
 now time to change it, assuming the current prefix is `-`
 just send `-prefix <the new prefix>`\
 ![](https://i.imgur.com/VafYIFD.jpg)
+
+## More Examples
+Click [Here](../examples/) To see examples

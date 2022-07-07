@@ -13,4 +13,4 @@ To view a [sketch](create.md), assuming that the bot [prefix](prefix.md) is `-`
 And that's how you view a [sketch](create.md) from the bot\
 
 ## More Examples
-Click [Here](../examples/) To see other examples
+Click [Here](../examples/) To see examples

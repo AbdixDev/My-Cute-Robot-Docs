@@ -10,3 +10,6 @@ To delete a [sketch](create.md), assuming that the bot [prefix](prefix.md) is `-
 
 And that's how you delete a [sketch](create.md) from the bot\
 read the [examples](../examples/) to know more about the using of [sketches](create.md)
+
+## More Examples
+Click [Here](../examples/) To see examples
