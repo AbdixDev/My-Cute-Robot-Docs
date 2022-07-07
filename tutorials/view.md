@@ -11,4 +11,6 @@ To view a [sketch](create.md), assuming that the bot [prefix](prefix.md) is `-`
 ![](https://i.imgur.com/DhgW9Tm.jpg)
 
 And that's how you view a [sketch](create.md) from the bot\
-read the [examples](../examples/) to know more about the using of [sketches](create.md)
+
+## More Examples
+Click [Here](../examples/) To see other examples
