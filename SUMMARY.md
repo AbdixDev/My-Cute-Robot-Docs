@@ -17,17 +17,17 @@
   * [User Say Something](starters/userText.md)
 * Steps
   * Message
-        * [Delete](steps/deletemessage.md)
-        * [Edit](steps/editmessage.md)
-        * [Reply](steps/replymessage.md)
-        * [Send](steps/sendmessage.md)
+      * [Delete](steps/deletemessage.md)
+      * [Edit](steps/editmessage.md)
+      * [Reply](steps/replymessage.md)
+      * [Send](steps/sendmessage.md)
   * Role
-        * [Give](steps/giverole.md)
-        * [Take](steps/takerole.md)
+      * [Give](steps/giverole.md)
+      * [Take](steps/takerole.md)
   * Text
-        * [Random Text](steps/randomtext.md)
+      * [Random Text](steps/randomtext.md)
   * Misc
-        * [Wait](steps/wait.md)
+      * [Wait](steps/wait.md)
 * ⚓ Placeholders
   * [Channel](placeholders/channel.md)
   * [Guild](placeholders/guild.md)
