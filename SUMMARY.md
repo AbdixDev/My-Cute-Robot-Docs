@@ -12,7 +12,7 @@
   * [What is Placeholder?](tutorials/placeholder.md)
   * [Changing the bot prefix?](tutorials/prefix.md)
   * [How to view a previously created sketch](tutorials/view.md)
-* 🚀 Starters
+* Starters
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
 * Steps
