@@ -2,33 +2,32 @@
 
 * [👋 Welcome!](README.md)
 * [Quick Start](quick-start.md)
-
-* Examples
+* [Examples](examples/README.md)
   * [Welcomer](examples/memberJoin.md)
   * [Greeting People](examples/userText.md)
-* Tutorials
+* [Tutorials](tutorials/README.md)
   * [How to create a sketch](tutorials/create.md)
   * [How to delete a sketch](tutorials/delete.md)
   * [What is Placeholder?](tutorials/placeholder.md)
   * [Changing the bot prefix?](tutorials/prefix.md)
   * [How to view a previously created sketch](tutorials/view.md)
-* Starters
+* [Starters](starters/README.md)
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
-* Steps
-  * Message
-      * [Delete](steps/deletemessage.md)
-      * [Edit](steps/editmessage.md)
-      * [Reply](steps/replymessage.md)
-      * [Send](steps/sendmessage.md)
-  * Role
-      * [Give](steps/giverole.md)
-      * [Take](steps/takerole.md)
-  * Text
-      * [Random Text](steps/randomtext.md)
-  * Misc
-      * [Wait](steps/wait.md)
-* ⚓ Placeholders
+* [Steps](steps/README.md)
+  * [Message](steps/message/README.md)
+    * [Delete](steps/deletemessage.md)
+    * [Edit](steps/editmessage.md)
+    * [Reply](steps/replymessage.md)
+    * [Send](steps/sendmessage.md)
+  * [Role](steps/role/README.md)
+    * [Give](steps/giverole.md)
+    * [Take](steps/takerole.md)
+  * [Text](steps/text/README.md)
+    * [Random Text](steps/randomtext.md)
+  * [Misc](steps/misc/README.md)
+    * [Wait](steps/wait.md)
+* [⚓ Placeholders](placeholders/README.md)
   * [Channel](placeholders/channel.md)
   * [Guild](placeholders/guild.md)
   * [List](placeholders/list.md)
@@ -36,7 +35,7 @@
   * [Role](placeholders/role.md)
   * [Text](placeholders/text.md)
   * [User](placeholders/user.md)
-* Inputs
+* [Inputs](inputs/README.md)
   * [Channel](inputs/channel.md)
   * [Message](inputs/message.md)
   * [Role](inputs/role.md)
