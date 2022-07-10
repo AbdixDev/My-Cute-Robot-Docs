@@ -37,7 +37,6 @@
   * [Role](placeholders/role.md)
   * [Text](placeholders/text.md)
 * [Inputs](inputs/README.md)
-  * [Inputs](inputs/README.md)
   * [Channel](inputs/channel.md)
   * [Choose](inputs/choose.md)
   * [User](inputs/member.md)
