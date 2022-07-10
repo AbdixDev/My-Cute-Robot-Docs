@@ -6,6 +6,7 @@ This starter, needs some inputs to work properly when you attempt to create a sk
 | Input      | Description |Type|
 |-|-|-|
 |When user say what?|Like `?hello`| [ Text](../inputs/text.md) |
+|Which Matching type?|Like message exactly/starts with/contains a specific text| [ Choose](../inputs/choose.md) |
 
 ## Placeholders
 This starter, provides 3 [placeholders](../tutorials/placeholder.md) for your use
