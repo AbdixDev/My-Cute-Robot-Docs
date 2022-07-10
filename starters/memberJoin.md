@@ -5,7 +5,7 @@ Starts the sketch When user just joined your server
 This starter, provides 1 [placeholders](../tutorials/placeholder.md) for your use
 | Placeholder      | Description |
 |-|-|
-|[member](../placeholders/user.md)|The member who just joined|
+|[member](../placeholders/member.md)|The member who just joined|
 
 ## Example
 {% content-ref url="../examples/memberJoin.md" %}[Click here](../examples/"memberJoin.md")
