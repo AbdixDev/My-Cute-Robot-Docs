@@ -57,6 +57,8 @@ after checking [`Member`](../placeholders/member.md) page, you will find there's
 ```
 Hi <member name>
 ```
+![](https://i.imgur.com/4GXfMnz.gif)
+
 ## More Examples
 Almost all examples use placeholders\
 Click [Here](../examples/) To see examples
