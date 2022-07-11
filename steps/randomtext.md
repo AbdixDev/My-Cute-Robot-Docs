@@ -13,12 +13,12 @@ This steps, needs some inputs to work properly when you attempt to add this step
 This step, provides 1 [placeholders](../tutorials/placeholder.md) for your use
 | Placeholder      | Description |
 |-|-|
-|[text](../placeholders/text.md)|The text picked from the pool randomly|
+|[randomtext](../placeholders/text.md)|The text picked from the pool randomly|
 
 ### Using Placeholders
 [placeholder](../tutorials/placeholder.md) of a step, can be used only if you provided the step number after the [placeholder](../tutorials/placeholder.md) name\
-For example, using [placeholder](../tutorials/placeholder.md) `text` that provided from the step number 5
+For example, using [placeholder](../tutorials/placeholder.md) `text` that provided from the step number 10
  
 ```
-<text5>
+<text10>
 ```
