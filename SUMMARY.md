@@ -24,9 +24,9 @@
   * Role
       * [Give](steps/giverole.md)
       * [Take](steps/takerole.md)
-  * Text
-      * [Random Text](steps/randomtext.md)
   * Misc
+      * [Random Number](steps/randomnum.md)
+      * [Random Text](steps/randomtext.md)
       * [Wait](steps/wait.md)
 * [Placeholders](placeholders/README.md)
   * [Channel](placeholders/channel.md)
@@ -34,6 +34,7 @@
   * [List](placeholders/list.md)
   * [Member](placeholders/member.md)
   * [Message](placeholders/message.md)
+  * [Number](placeholders/number.md)
   * [Role](placeholders/role.md)
   * [Text](placeholders/text.md)
 * [Inputs](inputs/README.md)
@@ -41,5 +42,6 @@
   * [Choose](inputs/choose.md)
   * [User](inputs/member.md)
   * [Message](inputs/message.md)
+  * [Number](inputs/number.md)
   * [Role](inputs/role.md)
   * [Text](inputs/text.md)
