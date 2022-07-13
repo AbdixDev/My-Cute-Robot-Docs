@@ -15,7 +15,7 @@ A sketch consists of:\
 
 #### Starter
 
-Sketch's starter is very important because it will decide when this sketch will start. Like when a User joins the server. Or when a user sends a message, for example
+Sketch's starter is very important because it will decide when this sketch will start. Like when a User joins the server. Or when a User sends a message, for example
 
 #### Steps
 
@@ -23,24 +23,25 @@ Sketch's steps are what describe the sketch behavior, and your cute robot will r
 
 and the step can be anything, like:
 
-* Send a Message
+* send a Message
 * react to a message
 * give a role to user
 
-literally anything
+Literally anything !
 
 ### Now time to create the sketch
 
-1. Go to your server and send `-create`
-2. You will find the bot asking you, what sketch name? Well, anything. Let's write `My first sketch`\
+1. Go to your server and send
+`-create`
+2. You will find the bot asking you, what is the Sketch name? Well, anything. Let's write `My first sketch`\
    ![](.gitbook/assets/image.png)\`\`
-3. Afterward, it will ask you what is the starter. Let's select `User Say Something`\
+3. Afterward, it will ask you what is the Starter. Let's select `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
 4. Then we will tell the bot which text. In this case, let's make it `?hello`\
    ![](<.gitbook/assets/image (4).png>)
-5. Now the bot will start this sketch when any user send `?hello` . Now time to make our first step\
+5. Now the bot will start this Sketch when any User send `?hello` . Now time to make our first step\
    ![](<.gitbook/assets/image (11).png>)
-6. Let's reply to the user with `Heyo <3` . So we will select `Message` . Then inside it we will select `Reply`\
+6. Let's reply to the User with `Heyo <3` . So we will select `Message` . Then inside it we will select `Reply`\
    ![](<.gitbook/assets/image (8).png>)
 7. But wait, reply to which message? So we will need to tell the bot to reply to the user message that started this sketch\
    ![](<.gitbook/assets/image (1).png>)
