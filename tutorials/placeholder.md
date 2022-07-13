@@ -1,40 +1,40 @@
 # What is Placeholder?
 Here we gonna talk about the placeholder and its uses in our bot
 
-## First why we need placeholder?
+## First, why do we need a placeholder?
 We have a big issue without placeholder, which is... dynamic behavior\
 Assume You want this behavior:
 ```
 When user send: hi
 Bot send: Hi @user
 ```
-Easy right? alright let's try make it\
+Easy right? Alright let's try to make it\
 1- [make a sketch](../tutorials/create.md)\
-2- pick [starter](../starters/) as When [user say something](../starters/userText.md)\
+2- pick [starter](../starters/) as when [user say something](../starters/userText.md)\
 3- as for [steps](../steps/) it will be just one step [Send message](../steps/sendmessage)\
 4- let's pick the channel to be the starter channel\
 5- as for the content.. that's the tricky part
-what will be the content?\
-as you know we want something.. that changes depends on situation
+what will the content be?\
+As you know we want something that changes depending on the situation
 
-like if user is `Abdi`\
+like if the user is `Abdi`\
 bot should say: `Hi @Abdi`
 
 if user became `ButterFly`\
 bot should say: `Hi @ButterFly`
 and so on\
-as you see, the content changed and can't be just one message, it can have any possiblitlies depends on which user said it
+as you can see, the content changed and can't be just one message, it can have any possiblitlies, depends on which user said it
 
 
 Here comes Placeholders in the picture
 
 ## Placeholder Usages
-You now understand why we need it, but how to use it to solve the issue mentioned above?\
-it's simple actually, imagine placeholders as a cards that you can use
-and these cards given to you by [Starters](../starters/) or [Steps](../steps/)\
-For example in [User say something](../starters/userText.md) page
+You now understand why we need it but how to use it to solve the issue mentioned above?\
+It's simple actually. Imagine placeholders as cards that you can use
+and these cards are given to you by [Starters](../starters/) or [Steps](../steps/)\
+For example, in [User say something](../starters/userText.md) page
 You will find it saying that this starter provides some placeholders
-one of them is [`member`](../starters/userText.md#placeholders), and this placeholder contains the user who started the sketch, BINGO! that's what we want 
+one of them is [`member`](../starters/userText.md#placeholders), and this placeholder contains the User who started the Sketch. BINGO! That's what we want 
 
 so in the message content and any [Text](../inputs/text.md) input, you can use placeholder this way:
 ```
