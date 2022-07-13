@@ -23,9 +23,9 @@ Sketch's steps are what describe the sketch behavior, and your cute robot will r
 
 and the step can be anything, like:
 
-* send a Message
-* react to a message
-* give a role to user
+* Send a Message
+* React to a Message
+* Give a Role to User
 
 Literally anything !
 
