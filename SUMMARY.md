@@ -16,6 +16,11 @@
   * [User Join](starters/memberJoin.md)
   * [User Say Something](starters/userText.md)
 * [Steps](steps/README.md)
+  * Channel
+      * [Create](steps/createchannel.md)
+      * [Delete](steps/deletechannel.md)
+      * [Transfer Category](steps/editchannelcat.md)
+      * [Edit name](steps/editchannelname.md)
   * Message
       * [Delete](steps/deletemessage.md)
       * [Edit](steps/editmessage.md)
@@ -38,6 +43,7 @@
   * [Role](placeholders/role.md)
   * [Text](placeholders/text.md)
 * [Inputs](inputs/README.md)
+  * [Category](inputs/category.md)
   * [Channel](inputs/channel.md)
   * [Choose](inputs/choose.md)
   * [User](inputs/member.md)
