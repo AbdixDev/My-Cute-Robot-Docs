@@ -35,15 +35,15 @@ Literally anything !
 `-create`
 2. You will find the bot asking you, what is the Sketch name? Well, anything. Let's write `My first sketch`\
    ![](.gitbook/assets/image.png)\`\`
-3. Afterward, it will ask you what is the Starter. Let's select `User Say Something`\
+3. Afterward, it will ask you what is the Starter. Let's select when `User Say Something`\
    ![](<.gitbook/assets/image (6).png>)\`\`
-4. Then we will tell the bot which text. In this case, let's make it `?hello`\
+4. Then we will tell the bot which text to respond to. In this case, let's make it `?hello`\
    ![](<.gitbook/assets/image (4).png>)
-5. Now the bot will start this Sketch when any User send `?hello` . Now time to make our first step\
+5. Now the bot will start this Sketch when any User send `?hello` . Time to make our first step\
    ![](<.gitbook/assets/image (11).png>)
 6. Let's reply to the User with `Heyo <3` . So we will select `Message` . Then inside it we will select `Reply`\
    ![](<.gitbook/assets/image (8).png>)
-7. But wait, reply to which message? So we will need to tell the bot to reply to the user message that started this sketch\
+7. But wait, reply to which message? So we will need to tell the bot to reply to the User message that started this sketch\
    ![](<.gitbook/assets/image (1).png>)
 8. Now send `Heyo <3`\
    ![](<.gitbook/assets/image (7).png>)
