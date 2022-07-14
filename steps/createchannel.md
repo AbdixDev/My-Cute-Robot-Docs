@@ -9,7 +9,7 @@ This step needs some input to work properly when you attempt to add this step in
 |-|-|-|
 |Channel Name|This will be the channel name that's going to be created.| [ Text](../inputs/text.md) |
 |Channel Type|This will be the channel type that's going to be created.| [ Choose](../inputs/choose.md) |
-|Channel Category|Which category this channel is going to belong to?| [ Category](../inputs/category.md) |
+|Channel Category|Which category this channel is going to belong to| [ Category](../inputs/category.md) |
 
 ## Placeholders
 This step provides 1 [placeholders](../tutorials/placeholder.md) for your use
