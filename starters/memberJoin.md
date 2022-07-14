@@ -1,8 +1,8 @@
 # User Join
-Starts the sketch When user just joined your server
+Starts the Sketch when a User just joined your server
 
 ## Placeholders
-This starter, provides 1 [placeholders](../tutorials/placeholder.md) for your use
+This Starter provides 1 [placeholders](../tutorials/placeholder.md) for your use
 | Placeholder      | Description |
 |-|-|
 |[member](../placeholders/member.md)|The member who just joined|
