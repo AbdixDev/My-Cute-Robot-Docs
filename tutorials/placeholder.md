@@ -31,11 +31,12 @@ As you can see, the content changed from Abdi to ButterFly by using the placehol
 Here comes Placeholders in the picture
 
 ## Placeholder Usages
-You now understand why we need it. To explain further...
+You now understand why we need it.
+To explain further...
 It's simple actually. Imagine placeholders as cards that you can use
 and these cards are given to you by [Starters](../starters/) or [Steps](../steps/)\
-For example, in [User say something](../starters/userText.md) page, you will find it saying that this Starter provides some placeholders,
-one of them is [`member`](../starters/userText.md#placeholders), and this placeholder contains the User who started the Sketch. BINGO! That's what we want 
+For example, in [User Say Something](../starters/userText.md) page, you will find it saying that this Starter provides some placeholders,
+one of them is [`member`](../starters/userText.md#placeholders), and this placeholder refers to the User who triggered the start of the Sketch. BINGO! That's the one we want 
 
 So in the message content and any [Text](../inputs/text.md) input, you can use placeholder this way:
 ```
