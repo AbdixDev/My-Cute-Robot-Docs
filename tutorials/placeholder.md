@@ -2,10 +2,11 @@
 Here we gonna talk about the placeholder and its uses in our bot
 
 ## First, why do we need a placeholder?
-We have a big issue without placeholder, which is... dynamic behavior\
+We have a big issue without placeholder, which is... dynamic behavior
+
 Assume You want this behavior:
 ```
-When user send: hi
+When User send: hi
 Bot send: Hi @user
 ```
 Easy right? Alright let's try to make it\
@@ -13,27 +14,26 @@ Easy right? Alright let's try to make it\
 2- pick [starter](../starters/) as when [user say something](../starters/userText.md)\
 3- as for [steps](../steps/) it will be just one step [Send message](../steps/sendmessage)\
 4- let's pick the channel to be the starter channel\
-5- as for the content.. that's the tricky part
-what will the content be?\
-As you know we want something that changes depending on the situation
+5- as for the content.. that's the tricky part.
+What will the content be?
 
-like if the user is `Abdi`\
-bot should say: `Hi @Abdi`
+As you know, we want something that changes depending on the situation
 
-if user became `ButterFly`\
-bot should say: `Hi @ButterFly`
+Like if the user is `Abdi`\
+Bot should say: `Hi @Abdi`
+
+If user became `ButterFly`\
+Bot should say: `Hi @ButterFly`
 and so on\
-as you can see, the content changed and can't be just one message, it can have any possiblitlies, depends on which user said it
-
+As you can see, the content changed from Abdi to ButterFly by using the placeholder - member - the possibilities are endless. It changed depending on the User. The response did not stay the same.
 
 Here comes Placeholders in the picture
 
 ## Placeholder Usages
-You now understand why we need it but how to use it to solve the issue mentioned above?\
+You now understand why we need it. To explain further...
 It's simple actually. Imagine placeholders as cards that you can use
 and these cards are given to you by [Starters](../starters/) or [Steps](../steps/)\
-For example, in [User say something](../starters/userText.md) page
-You will find it saying that this starter provides some placeholders
+For example, in [User say something](../starters/userText.md) page, you will find it saying that this Starter provides some placeholders,
 one of them is [`member`](../starters/userText.md#placeholders), and this placeholder contains the User who started the Sketch. BINGO! That's what we want 
 
 so in the message content and any [Text](../inputs/text.md) input, you can use placeholder this way:
