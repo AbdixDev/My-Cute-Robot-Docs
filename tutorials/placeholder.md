@@ -36,7 +36,7 @@ To explain further...
 It's simple actually. Imagine placeholders as cards that you can use
 and these cards are given to you by [Starters](../starters/) or [Steps](../steps/)\
 For example, in [User Say Something](../starters/userText.md) page, you will find it saying that this Starter provides some placeholders,
-one of them is [`member`](../starters/userText.md#placeholders), and this placeholder refers to the User who triggered the start of the Sketch. BINGO! That's the one we want 
+one of them is [`member`](../starters/userText.md#placeholders), and this placeholder refers to the User who triggered the start of the Sketch. BINGO! That's the one we want. Instead of a simple and standard response from the bot, the placeholder called member can actually specifically respond to the User! With placeholders, the possibilities are endless! You can make the bot do much more.
 
 So in the message content and any [Text](../inputs/text.md) input, you can use placeholder this way:
 ```
