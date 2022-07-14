@@ -1,7 +1,9 @@
 # How to create a sketch
 To create a sketch, assuming that the bot [prefix](prefix.md) is `-`
 
-1. Go to your server, and send `-create`\
+1. Go to your server, and send
+
+`-create`\
 ![](https://i.imgur.com/wHmMZvW.jpg)
 2. You will be asked for the sketch name, you can name it anything you want\
 ![](https://i.imgur.com/ltfaIsN.jpg)
