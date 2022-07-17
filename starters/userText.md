@@ -1,15 +1,15 @@
 # User Say Something
-Starts the sketch When user say a text
+Starts the Sketch When User say a text
 
 ## Inputs
-This starter, needs some inputs to work properly when you attempt to create a sketch using it
+This Starter needs some input to work properly when you attempt to create a sketch using it
 | Input      | Description |Type|
 |-|-|-|
-|When user say what?|Like `?hello`| [ Text](../inputs/text.md) |
+|When User say what?|Like `?hello`| [ Text](../inputs/text.md) |
 |Which Matching type?|Like message exactly/starts with/contains a specific text| [ Choose](../inputs/choose.md) |
 
 ## Placeholders
-This starter, provides 3 [placeholders](../tutorials/placeholder.md) for your use
+This Starter provides 3 [placeholders](../tutorials/placeholder.md) for your use
 | Placeholder      | Description |
 |-|-|
 |[member](../placeholders/member.md)|The member who started the sketch|

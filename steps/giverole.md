@@ -18,8 +18,8 @@ This step provides 1 [placeholders](../tutorials/placeholder.md) for your use
 
 ### Using Placeholders
 [placeholder](../tutorials/placeholder.md) of a step, can be used only if you provided the step number after the [placeholder](../tutorials/placeholder.md) name\
-For example, using [placeholder](../tutorials/placeholder.md) `role` that provided from the step number 4
+For example, using [placeholder](../tutorials/placeholder.md) `role` that provided from the step number 3
  
 ```
-<role4>
+<role3>
 ```
