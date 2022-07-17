@@ -24,7 +24,7 @@ Bot should say: `Hi @Abdi`
 
 If user became `ButterFly`\
 Bot should say: `Hi @ButterFly`
-and so on\
+and so on
 
 As you can see, the content changed from Abdi to ButterFly\
 For now, let's send `Hi <member>` as reply for step #5
