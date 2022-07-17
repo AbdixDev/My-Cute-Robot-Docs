@@ -17,4 +17,5 @@ This placeholder have some properties that might be useful for you
 | \<number beforedot\> |get the digits before the dot (.), if it's `410.513`, it will be `410`|[Number](./number.md)|
 | \<number afterdot\> |get the digits after the dot (.), if it's `410.513`, it will be `513`|[Number](./number.md)|
 
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders

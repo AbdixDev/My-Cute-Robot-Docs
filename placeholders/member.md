@@ -16,4 +16,5 @@ This placeholder have some properties that might be useful for you
 | \<member color\> |get the user name color in the guild|[Text](./text.md)|
 | \<member roles\> |get the user roles in the guild|[List](./list.md) Of [Role](./role.md)|
 
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders

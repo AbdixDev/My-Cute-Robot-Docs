@@ -11,4 +11,5 @@ This placeholder have some properties that might be useful for you
 | \<message mentions\> |get the users that got mentioned in the message|[List](./list.md) Of [Member](./member.md)|
 | \<message mention\> |get the first mention in the message|[Member](./member.md)|
 
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders

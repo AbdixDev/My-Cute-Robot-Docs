@@ -15,4 +15,9 @@ This placeholder have some properties that might be useful for you
 | \<guild roles\> |get all roles in the guild|[List](./list.md) Of [Role](./role.md)|
 | \<guild owner\> |get the owner of the guild|[Member](./member.md)|
 
+## Global
+This placeholder can be used globally which means, it's available all the time in any placeholder-supported inputs
+
+
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders

@@ -15,4 +15,5 @@ This placeholder have some properties that might be useful for you
 | \<channel type\> |get the channel type|[Text](./text.md)|
 | \<channel childs\> |if the channel is category, it gets the channels inside it|[List](./list.md) Of [Channel](./channel.md)|
 
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders

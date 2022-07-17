@@ -11,4 +11,5 @@ This placeholder have some properties that might be useful for you
 | \<list get n\> |to get item at `n`th position in the list|Any type|
 | \<list map x\> |replaces the items in the list with the item's `x` property|[List](./list.md) Of Any type|
 
+## Know more
 [Click here](../tutorials/placeholder.md) to know more about using placeholders
