@@ -26,9 +26,13 @@ If user became `ButterFly`\
 Bot should say: `Hi @ButterFly`
 and so on\
 
-As you can see, the content changed from Abdi to ButterFly by using the placeholder - member. It changed depending on the User. The response did not stay the same.
+As you can see, the content changed from Abdi to ButterFly\
+For now, let's send `Hi <member>` as reply for step #5
 
 Here comes Placeholders in the picture
+
+using the placeholder `<member>`. It will depending on the User. The response will not stay the same.
+
 
 ## Placeholder Usages
 You now understand why we need it.
