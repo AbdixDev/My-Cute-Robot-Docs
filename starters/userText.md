@@ -7,6 +7,8 @@ This Starter needs some input to work properly when you attempt to create a sket
 |-|-|-|
 |When User say what?|Like `?hello`| [ Text](../inputs/text.md) |
 |Which Matching type?|Like message exactly/starts with/contains a specific text| [ Choose](../inputs/choose.md) |
+|Case sensitive?|If `yes` it will be case sensitive
+If `no` it will be case insensitive| [ Choose](../inputs/choose.md) |
 
 ## Placeholders
 This Starter provides 3 [placeholders](../tutorials/placeholder.md) for your use
