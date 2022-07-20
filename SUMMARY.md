@@ -24,6 +24,7 @@
   * Message
       * [Delete](steps/deletemessage.md)
       * [Edit](steps/editmessage.md)
+      * [React](steps/react_to_message.md)
       * [Reply](steps/replymessage.md)
       * [Send](steps/sendmessage.md)
   * Role
@@ -35,6 +36,7 @@
       * [Wait](steps/wait.md)
 * [Placeholders](placeholders/README.md)
   * [Channel](placeholders/channel.md)
+  * [Emoji](placeholders/emoji.md)
   * [Guild](placeholders/guild.md)
   * [List](placeholders/list.md)
   * [Member](placeholders/member.md)
@@ -46,6 +48,7 @@
   * [Category](inputs/category.md)
   * [Channel](inputs/channel.md)
   * [Choose](inputs/choose.md)
+  * [Emoji](inputs/emoji.md)
   * [User](inputs/member.md)
   * [Message](inputs/message.md)
   * [Number](inputs/number.md)
