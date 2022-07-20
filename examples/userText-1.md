@@ -24,7 +24,7 @@ in this situation, we want this starter to start when a message starts with `hug
 ![](https://i.imgur.com/M75xNul.jpg)
 
 6- Okay starter is done, time to add the sketch's [steps](../steps/)\
-1st step will be [send message](../message/sendmessage.md)
+1st step will be [send message](../message/sendmessage.md)\
 ![](https://i.imgur.com/XeSVPRh.jpg)\
 ![](https://i.imgur.com/WOU75da.jpg)
 
@@ -37,19 +37,20 @@ Let's send:
 <member> hugs <message mentions>
 https://c.tenor.com/NGFif4dxa-EAAAAi/hug-hugs.gif
 ```
-9- Save!
+
+9- Save!\
 ![](https://i.imgur.com/nHZ2imW.jpg)
 
 10- Let's test it out by sending `hug @user`\
-i will just hug me 😢
+i will just hug me 😢\
 ![](https://i.imgur.com/x7wdcvJ.jpg)
 
-11- It worked! but... that's not random, it will always send same gif, next part we will just add an extra step to give random gif, we will re-do the previous steps from 1 to 5 but instead of adding `send message` as step 1 we will select [`random text`](../steps/randomtext.md)
+11- It worked! but... that's not random, it will always send same gif, next part we will just add an extra step to give random gif, we will re-do the previous steps from 1 to 5 but instead of adding `send message` as step 1 we will select [`random text`](../steps/randomtext.md)\
 ![](https://i.imgur.com/E33TX0w.jpg)\
 ![](https://i.imgur.com/0CsF31u.jpg)
 
 12- Random Input, requires us to input each text separated by `;`+`new line (enter)`\
-Let's enter the gif links
+Let's enter the gif links\
 ![](https://i.imgur.com/TzbiDxK.jpg)
 
 13- Then add next step to be [`send message`](../steps/sendmessage.md), channel as `starter channel` but on content it will appear a menu\
@@ -61,8 +62,7 @@ we will select `custom`\
 <member> hugs <message mentions>
 <randomtext1>
 ```
-> Take note of <randomtext1> this [placeholder](../tutorials/placeholder.md) is provided by the [random text step](../steps/randomtext.md) we added in step 11
-
+> Take note of <randomtext1> this [placeholder](../tutorials/placeholder.md) is provided by the [random text step](../steps/randomtext.md) we added in step 11\
 ![](https://i.imgur.com/SZ1hSaI.jpg)
 
 15- That's it :tada: , Save the sketch!
