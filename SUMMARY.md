@@ -36,7 +36,6 @@
       * [Wait](steps/wait.md)
 * [Placeholders](placeholders/README.md)
   * [Channel](placeholders/channel.md)
-  * [Emoji](placeholders/emoji.md)
   * [Guild](placeholders/guild.md)
   * [List](placeholders/list.md)
   * [Member](placeholders/member.md)
