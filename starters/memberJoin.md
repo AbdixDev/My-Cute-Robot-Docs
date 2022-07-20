@@ -7,6 +7,6 @@ This Starter provides 1 [placeholders](../tutorials/placeholder.md) for your use
 |-|-|
 |[member](../placeholders/member.md)|The Member who just joined|
 
-## Example
-{% content-ref url="../examples/memberJoin.md" %}[Click here](../examples/"memberJoin.md")
+## Examples
+{% content-ref url="../examples/memberJoin.md" %}[Welcomer](../examples/"memberJoin.md")
 {% endcontent-ref %}

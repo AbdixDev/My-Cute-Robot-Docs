@@ -18,6 +18,9 @@ This Starter provides 3 [placeholders](../tutorials/placeholder.md) for your use
 |[message](../placeholders/message.md)|The user message which started the sketch|
 |[channel](../placeholders/channel.md)|The channel where the user used the command in|
 
-## Example
-{% content-ref url="../examples/userText.md" %}[Click here](../examples/"userText.md")
+## Examples
+{% content-ref url="../examples/userText-1.md" %}[Hugger](../examples/"userText-1.md")
+{% endcontent-ref %}
+
+{% content-ref url="../examples/userText.md" %}[Greeting People](../examples/"userText.md")
 {% endcontent-ref %}

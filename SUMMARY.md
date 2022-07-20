@@ -5,6 +5,7 @@
 
 * [Examples](examples/README.md)
   * [Welcomer](examples/memberJoin.md)
+  * [Hugger](examples/userText-1.md)
   * [Greeting People](examples/userText.md)
 * [Tutorials](tutorials/README.md)
   * [How to create a sketch](tutorials/create.md)
