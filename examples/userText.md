@@ -7,6 +7,9 @@ Our bot should reply with
 ```
 Hello @user, how are you?
 ```
+
+![](https://i.imgur.com/bPGLkIS.jpg)
+
 ## Steps
 1- Send `-create` in the server, and name the sketch `Greeter` (it can be anything)\
 ![](https://i.imgur.com/ueVpwnm.jpg)

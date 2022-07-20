@@ -9,6 +9,9 @@ Welcome @user to our cute server
 ```
 
 Only that? No. Let's also give him role @member
+
+![](https://i.imgur.com/VbIS3q0.jpg)
+
 ## Steps
 1- Send `-create` in the server, and name the sketch `Welcomer` (it can be anything)\
 ![](https://i.imgur.com/H9Tpa4p.jpg)

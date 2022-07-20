@@ -4,6 +4,7 @@ Let's see how our cute robot can be used to hug people
 When the user send `hug @user`\
 Our bot should send a random hug GIF like\
 ![](https://i.imgur.com/T0XXQIl.jpg)
+
 ## Steps
 1- Send `-create` in the server, and name the sketch `Cute Hugger` (it can be anything)\
 ![](https://i.imgur.com/k1gRirY.jpg)
