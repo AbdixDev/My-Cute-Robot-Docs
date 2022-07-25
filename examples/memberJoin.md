@@ -8,7 +8,7 @@ by sending message:
 Welcome @user to our cute server
 ```
 
-Only that? No. Let's also give him role @member
+Only that? No. Let's also add role @member
 
 ![](https://i.imgur.com/VbIS3q0.jpg)
 
@@ -27,11 +27,11 @@ Obviously [`User Join`](../starters/memberJoin.md) starter\
 ![](https://i.imgur.com/1G7MvAj.jpg)\
 **Note**: we used a [placeholder](../tutorials/placeholder.md) of [member](../placeholders/user.md) provided by the [starter](../starters/memberJoin.md)
 
-5- then let's add our 2nd step, which for adding the role, select `Role` then `Give`\
+5- Then let's add our 2nd step, which is, to add the role. Select `Role` then `Give`\
 ![](https://i.imgur.com/ljKooh1.jpg)\
 ![](https://i.imgur.com/3aKMlPm.jpg)
 
-6- Bot is asking us `give role to which user?`, of course the `Joined member`\
+6- Bot will ask, `give role to which User?`, of course the `Joined member`\
 ![](https://i.imgur.com/MiSXLxu.jpg)
 
 7- Which role? Let's pick `Member`\
