@@ -54,3 +54,4 @@
   * [Number](inputs/number.md)
   * [Role](inputs/role.md)
   * [Text](inputs/text.md)
+* [Privacy Policy](privacy.md)
